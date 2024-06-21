@@ -1,0 +1,104 @@
+Sword's Burden
+
+Theme:
+	*** Simple ***
+	Old enough for major cities to look like a stone house and a bunch of wooden shacks
+
+Simple Ideas:
+	Pixel art (64x64 for characters, 16x16 for items and anything else can be whatever size it needs to be)
+	Inventory? (
+		Infinite?
+		Semi-Realistic? (Limited in capacity but no side eaffects, plus can carry all weapon types for the semi noobs)
+		Realistic? (
+			Only able to handle a "main" weapon and a few other bits in pockets and a bag
+			Weight / overencumbered?
+			
+		)
+		Bags cannot be put inside one another
+		Little option in the settings for inventory mode + tied to difficulty
+	)
+	Difficulties? (
+		Different enemy figting styles
+		Realistic health
+		Realistic
+	)
+	Magic of any kind? (
+		Spell based  / limited
+		Storage bags
+		Can always be added later
+	)
+	Gaining strength / bettering technique? (
+		Strength training
+		Doing the tecnique or similar techiques
+		Qi / Mana / whatever control through meditation etc
+		Training in relevant places
+		Train with masters
+		
+		Have only basic techniques?
+		
+		Stats increase by small integer at a time
+		
+	)
+	Monsters / fantasy setting?
+	carriages? (
+		Hire them
+		
+	)
+
+Complex ideas:
+	Village based economy
+	Able to murder / destroy a village?
+	Does that bring repricutions? (Trade / loss of city)
+	More like controvertial but, what about a slight change to the stats of the user based on weird things(gender, age, backstory?, )
+
+Lore:
+
+	A simple swordsman aquires an extremely elusive relic that brings misfortune to the user.
+	
+	How does he aquire the relic:
+		It soul bonds with a person?
+		They found it whilst on a job?
+		An aristocrat gives it to them as a reward?
+		An aristocrat gives it to them to frame him?
+		
+	
+	Lots of missunderstandings happen around him.
+	Renowned? (
+		Good reason for a village to banish you when you have a bounty etc
+	)
+	Locally renowned?
+	Hated by peers?
+	
+
+Lore Help:
+1*	
+
+# NOTE -> GPT help below.
+
+What would be a good missunderstanding that would explain why a nobleman would try to execute a swordsman:
+
+	A compelling misunderstanding that could explain why a nobleman would try to execute a swordsman might involve a mix-up that paints the swordsman as a traitor or a murderer. Here are a few detailed scenarios:
+
+	1. Mistaken Identity:
+	The swordsman is mistaken for an infamous assassin who recently killed a high-ranking noble. Both share similar physical traits, and the real assassin planted false evidence pointing to the swordsman to throw off suspicion.
+
+	2. Stolen Artifact:
+	The swordsman unknowingly comes into possession of a valuable artifact that was stolen from the nobleman. The true thief plants the artifact on the swordsman, making it appear as though he is the culprit.
+
+	3. Framed for Treason:
+	A rival swordsman or enemy of the nobleman frames the protagonist by planting forged letters and documents that suggest he is plotting against the nobleman. The nobleman, in a panic, orders his execution without a proper investigation.
+
+	4. Accidental Death:
+	The swordsman is involved in a fight to protect someone or something and accidentally kills a close relative of the nobleman. The nobleman, grieving and seeking justice, misinterprets the incident as a deliberate act of murder.
+
+	5. Political Intrigue:
+	The swordsman uncovers a conspiracy against the nobleman and tries to warn him. However, the conspirators get to the nobleman first, twisting the swordsman’s warnings into false accusations of betrayal and treason.
+
+	6. Forbidden Romance:
+	The swordsman falls in love with the nobleman’s daughter, who is promised to another powerful figure. When they are discovered, the nobleman believes the swordsman seduced his daughter to undermine his political alliances and orders his execution.
+
+	7. Cursed Blade:
+	The swordsman comes into possession of a legendary, cursed sword believed to bring misfortune and death to its owner. The nobleman, fearing the curse and blaming the swordsman for recent calamities, orders his execution to lift the perceived curse.
+
+	These scenarios add layers of intrigue, emotion, and conflict, creating a rich narrative foundation for the game
+
