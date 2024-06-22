@@ -28,6 +28,10 @@ config/icon="res://icon.svg"
 
 LogDuck="*res://addons/LogDuck/LogDuck.gd"
 
+[display]
+
+window/subwindows/embed_subwindows=false
+
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/ColorPreview/plugin.cfg", "res://addons/LogDuck/plugin.cfg", "res://addons/resources_spreadsheet_view/plugin.cfg", "res://addons/script-ide/plugin.cfg", "res://addons/script-tabs/plugin.cfg", "res://addons/simple_resource_icons/plugin.cfg")

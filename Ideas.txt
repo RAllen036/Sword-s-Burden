@@ -5,7 +5,6 @@ Theme:
 	Old enough for major cities to look like a stone house and a bunch of wooden shacks
 
 Simple Ideas:
-	Pixel art (64x64 for characters, 16x16 for items and anything else can be whatever size it needs to be)
 	Inventory? (
 		Infinite?
 		Semi-Realistic? (Limited in capacity but no side eaffects, plus can carry all weapon types for the semi noobs)
@@ -46,10 +45,24 @@ Simple Ideas:
 	)
 
 Complex ideas:
+	Bullet time when an arrow, etc is shot at the player (only needs to slow time for a sec so that the player can see the arrow before having to react)
+	Leading and trailing attacts rather than set animations (The player can easily get used to an animation therefore having the enemy lead and trail attacks can make fights more interesting, complex and like a mind game, could end up making it to difficult if the attacks / combos are truly random so personalities will need to be implemented as an extra. Could add personality traits instead, these dictate how random the enemy is, for example an enemy with an Adaptable trait would try new techniques more often with more random timing and then try to punish the moves that have good feedback, essentially the basis of good AI)
+	Character memory (Requires lots of dialog options per person) (How would this blend with the destruction of a village?, this is something to conisder especially if I delve into a set map)
 	Village based economy
 	Able to murder / destroy a village?
 	Does that bring repricutions? (Trade / loss of city)
 	More like controvertial but, what about a slight change to the stats of the user based on weird things(gender, age, backstory?, )
+
+References:
+	
+
+Style:
+	Pixel art (
+		~64x64 for characters,
+		~16x16 for items,
+		anything else can be whatever size it needs to be
+		)
+	
 
 Lore:
 
