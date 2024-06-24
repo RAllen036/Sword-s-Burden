@@ -9,7 +9,7 @@ func _ready() -> void:
 	pass
 
 func enter() -> void:
-	pass
+	print(self.name)
 
 func exit() -> void:
 	pass
@@ -18,4 +18,7 @@ func update(_delta: float) -> void:
 	pass
 
 func physics_update(_delta: float) -> void:
+	pass
+
+func _physics_process(_delta: float) -> void:
 	pass

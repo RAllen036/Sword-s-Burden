@@ -1,10 +1,8 @@
-[gd_scene load_steps=8 format=3 uid="uid://c1fcegejn7lhp"]
+[gd_scene load_steps=6 format=3 uid="uid://c1fcegejn7lhp"]
 
 [ext_resource type="Script" path="res://Scenes/Player/Player.gd" id="1_gykwl"]
 [ext_resource type="Script" path="res://StateMachine/Machine.gd" id="2_vcndg"]
 [ext_resource type="Script" path="res://StateMachine/States/WalkingPlayerState.gd" id="3_g0l00"]
-[ext_resource type="Script" path="res://StateMachine/States/IdlePlayerState.gd" id="4_2vsjf"]
-[ext_resource type="Script" path="res://StateMachine/States/RunningPlayerState.gd" id="5_h1gac"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_2t8tp"]
 
@@ -23,18 +21,8 @@ mesh = SubResource("CapsuleMesh_ct2nr")
 
 [node name="Camera2D" type="Camera2D" parent="."]
 
-[node name="StateMachine" type="Node" parent="." node_paths=PackedStringArray("current_state")]
+[node name="StateMachine" type="Node" parent="."]
 script = ExtResource("2_vcndg")
-current_state = NodePath("IdlePlayerState")
-suffix = "PlayerState"
 
 [node name="WalkingPlayerState" type="Node" parent="StateMachine"]
 script = ExtResource("3_g0l00")
-speed = 100.0
-
-[node name="IdlePlayerState" type="Node" parent="StateMachine"]
-script = ExtResource("4_2vsjf")
-
-[node name="RunningPlayerState" type="Node" parent="StateMachine"]
-script = ExtResource("5_h1gac")
-speed = 200.0
