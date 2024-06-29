@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://bo038usdhtvj4"]
+
+[ext_resource type="Script" path="res://Scenes/ProceduralTest/Test.gd" id="1_hr4xg"]
+[ext_resource type="PackedScene" uid="uid://c1fcegejn7lhp" path="res://Scenes/Player/Player.tscn" id="2_b1gp1"]
+
+[node name="Test" type="Node2D"]
+script = ExtResource("1_hr4xg")
+saved_worlds_location = "res://Resources"
+
+[node name="TileMap" type="TileMap" parent="."]
+format = 2
+
+[node name="Player" parent="." instance=ExtResource("2_b1gp1")]
