@@ -7,9 +7,6 @@ extends Control
 @export_file("*.tscn") var world_location: String = ""
 @export_file("*.tscn") var settings_location: String = ""
 
-func _ready() -> void:
-	assert(not world_location.is_empty(), "World location is not connected to the main scene.")
-
 func _on_start_pressed() -> void:
 	get_tree().change_scene_to_file(world_location)
 
