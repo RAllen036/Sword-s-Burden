@@ -38,7 +38,9 @@ Simple Ideas:
 		Stats increase by small integer at a time
 		
 	)
-	Monsters / fantasy setting?
+	Monsters / fantasy setting? (
+		
+	)
 	carriages? (
 		Hire them
 		
@@ -65,7 +67,7 @@ Style:
 	
 
 Lore:
-
+	
 	A simple swordsman aquires an extremely elusive relic that brings misfortune to the user.
 	
 	How does he aquire the relic:

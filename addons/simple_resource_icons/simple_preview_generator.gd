@@ -6,7 +6,7 @@ func _can_generate_small_preview():
 func _handles(type):
 	return type == "Resource"
 
-func _generate(resource, size):
+func _generate(resource, size, dict):
 	var img : Image = Image.new()
 	
 	# The _get_icon method must return an [Image].

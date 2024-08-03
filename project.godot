@@ -25,6 +25,12 @@ run/main_scene="res://Scenes/StartMenu/StartMenu.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
+[autoload]
+
+SoundManager="*res://Managers/sound.gd"
+PlayerManager="*res://Managers/player.gd"
+SceneManager="*res://Managers/scene.gd"
+
 [display]
 
 window/subwindows/embed_subwindows=false
@@ -37,6 +43,7 @@ enabled=PackedStringArray("res://addons/AsepriteWizard/plugin.cfg", "res://addon
 
 folder_colors={
 "res://Assets/": "red",
+"res://Managers/": "yellow",
 "res://Resources/": "purple",
 "res://Scenes/": "green",
 "res://StateMachine/": "blue",
